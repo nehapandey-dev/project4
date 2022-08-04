@@ -7,20 +7,12 @@ li {
   font-family: Arial, Helvetica, sans-serif;
   text-decoration: none;
   display: inline;
-  margin-left: 20px;
-  line-height: 20px;
-}
-
-li,
-button {
-  font-family: Arial, Helvetica, sans-serif;
-  text-decoration: none;
-  display: inline;
   text-align: center;
   position: relative;
   left: 18%;
+  bottom: 20px;
   color: rgb(173, 166, 166);
-
+  padding: 0 20px;
 }
 
 li:hover {
@@ -34,16 +26,15 @@ li:hover {
   height: 40px;
   border-style: none;
   border-radius: 10px;
-  display: inline-block;
   position: relative;
   left: 60%;
-  top: -25px;
+  bottom: 50px;
 }
 
 img[alt="brand-logo"] {
   width: 100px;
   margin-left: 100px;
-  margin-top: 30px;
+  margin-top: 50px;
 }
 
 h1 {
@@ -83,6 +74,6 @@ img[alt="illustration"] {
   background-color: #8177ea;
   color: white;
   border-style: none;
-  position: absolute;
-  margin-right: 70%;
+  position: relative;
+  left: 8%;
 }

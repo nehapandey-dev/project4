@@ -1,16 +1,18 @@
 # Project 4
 
-This project is related to Digital Marketing Home Page.
+This project is about Digital Marketing Home Page where i had to work on css styling.
 
-## Freature
+## Challenges and Lesson Learned
 
-This is Home Page where you can check the service, pricing and portfolio.
+There were some challenges like:
+- how to center navigation menu in css
+- position in css
+- changed font color of span tag 
+- changed width and height of image in css
+- hover effect on navigation menu
 
-## Lesson Learned
+## Total time to complete this project
 
+It took 3 hours to complete this project .
 
-In this project, i learnt about navigation menu and also learnt about position and display property.
-
-## Time Taken
-
-I could be able to complete this project in 2.5 hours.
+![prject4](./project4-img.png)
